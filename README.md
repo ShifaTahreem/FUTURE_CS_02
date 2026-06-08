@@ -122,7 +122,8 @@ FUTURE_CS_02/
 The project successfully identified common phishing techniques used in real-world attacks, including spoofed sender domains, authentication failures, malicious links, and social engineering tactics. The findings reinforce the importance of user awareness, email authentication mechanisms, and proactive security practices in reducing phishing-related risks.
 
 ### Author
-
 **Shifa Tahreem**
-**Cyber Security Intern**
+
+Cyber Security Intern
+
 Future Interns | June 2026

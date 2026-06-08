@@ -124,5 +124,5 @@ The project successfully identified common phishing techniques used in real-worl
 ### Author
 
 **Shifa Tahreem**
-Cyber Security Intern
+**Cyber Security Intern**
 Future Interns | June 2026
